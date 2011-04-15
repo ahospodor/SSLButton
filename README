@@ -1,0 +1,41 @@
+Andrew W. Hospodor 2011
+andrew.hospodor@gmail.com
+andrewh@soe.ucsc.edu
+
+
+
+This is the README for the SSLButton project at 
+UC Santa Cruz 
+   Storage System Research Center 
+      Work Group On Applied Security and Privacy
+
+(UCSC SSRC WASP).
+
+Purpose:
+This button is intended to show users whether or not
+SSL is available on any given webpage. 
+
+
+Installation:
+To install the firefox extension, simply drag and drop
+the "sslbutton.xpi" into Firefox. Follow instructions on screen.
+
+After this, go to "customize" for toolbar:
+View -> Toolbars -> Customize
+OR
+Right click on toolbar area and click customize. 
+Select the icon with the Padlock icon (Called SSL Button) and drag
+it onto your favorite spot in the toolbar.
+
+Testing:
+It has only been tested in Firefox 3.6 at this time. If you would
+like to do more testing, please do.
+
+Things that need doing:
+get "hover" to work in chrome/content/overlay.css
+update description
+add a nice graphic with the description
+
+
+Planned things that will "eventually" get done:
+hash table for visited sites. 
