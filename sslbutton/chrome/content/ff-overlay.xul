@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css"
+  href="chrome://sslbutton/skin/overlay.css"?>
+
+<!DOCTYPE overlay  SYSTEM "chrome://sslbutton/locale/overlay.dtd">
+<overlay id="sslbutton-overlay"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/javascript"
+  src="chrome://sslbutton/content/overlay.js"/>
+
+<stringbundleset id="stringbundleset">
+    <stringbundle id="sslbutton-strings" src="chrome://sslbutton/locale/overlay.properties"/>
+  </stringbundleset>
+
+<!-- Firefox -->
+<toolbarpalette id="BrowserToolbarPalette">
+  <toolbarbutton id="sslbutton-toolbar-button"  class="toolbarbutton-1 chromeclass-toolbar-additional"
+	label = "&sslbuttonToolbarButton.label;" tooltiptext = "&sslbuttonToolbarButton.tooltiptext;"
+	oncommand = "SSLButton[2](window.content)" />
+  </toolbarpalette>
+</overlay>
+

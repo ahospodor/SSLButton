@@ -1,0 +1,7 @@
+content   sslbutton                 chrome/content/
+skin      sslbutton   classic/1.0   chrome/skin/
+locale    sslbutton   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://sslbutton/content/ff-overlay.xul
+style chrome://global/content/customizeToolbar.xul chrome://sslbutton/skin/overlay.css

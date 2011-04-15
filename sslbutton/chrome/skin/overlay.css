@@ -1,0 +1,46 @@
+/* Andrew W. Hospodor 2011 */
+/* Used https://developer.mozilla.org/en/custom_toolbar_button 
+   as guide */
+/* Icon used with permission from Mohamed Ibrahim 
+   http://www.clker.com/profile-9.html
+   http://www.clker.com/clipart-52153.html
+*/
+
+/* Could not get hover to work... Not sure why */
+#sslbutton-toolbar-button
+  {list-style-image: url("chrome://sslbutton/skin/button-4.png");}
+ 
+#sslbutton-toolbar-button[value="green"]
+{
+    list-style-image: url("chrome://sslbutton/skin/button-1.png");
+}
+
+#sslbutton-toolbar-button[value="yellow"]
+{
+    list-style-image: url("chrome://sslbutton/skin/button-2.png");
+}
+
+#sslbutton-toolbar-button[value="red"]
+{
+    list-style-image: url("chrome://sslbutton/skin/button-3.png");
+}
+
+#sslbutton-toolbar-button[value="grey"]
+{
+    list-style-image: url("chrome://sslbutton/skin/button-4.png");
+}
+
+/*common style for all ssl buttons */
+#sslbutton-toolbar-button                  
+  {-moz-image-region: rect( 0px 24px 24px  0px);}
+
+/*#sslbutton-tooblar-button:hover     
+  {-moz-image-region: rect(24px 24px 48px  0px);}*/
+
+toolbar[iconsize = "small"] #sslbutton-toolbar-button
+  {-moz-image-region: rect( 0px 40px 16px 24px);}
+
+/*toolbar[iconsize = "small"] #sslbutton-toolbar-button:hover
+  {-moz-image-region: rect(24px 40px 40px 24px);}*/
+ 
+
