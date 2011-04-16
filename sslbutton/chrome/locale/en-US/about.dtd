@@ -1,4 +1,11 @@
 <!ENTITY about "About">
-<!ENTITY version "Version: 1.0">
+<!ENTITY version "Version: ">
 <!ENTITY createdBy "Created By: Andrew W. Hospodor WASP Lab UCSC SSRC">
 <!ENTITY homepage "Home Page:http://www.wasp.soe.ucsc.edu/">
+<!ENTITY usage "Usage">
+<!ENTITY installinst1 "To use, place the button on your toolbar by">
+<!ENTITY installinst2 "View -> Toolbars -> Customize and dragging the SSL Button icon onto your toolbar.">
+<!ENTITY redmeaning "Red => A secure channel is available, click the button to switch to it">
+<!ENTITY greenmeaning "Green => A secure channel is in use, click the button to go to nonsecure channel">
+<!ENTITY yellowmeaning "Yellow => The secure channel in use is unverifiable and may be compromised. Click the button to go to nonsecure channel">
+<!ENTITY greymeaning "Grey => A secure channel is unavailable for this page">

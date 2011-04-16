@@ -13,6 +13,15 @@
       <text value="&createdBy;" style="font-weight: bold;"/>
       <text value="Andrew Hospodor"/>
       <separator class="thin"/>
+	  <text value="&usage;" style="font-weight: bold;"/>
+	  <text value="&installinst1;"/>
+	  <text value="&installinst2;"/>
+	  <separator class="thin"/>
+	  <text value="&redmeaning;"/>
+	  <text value="&greenmeaning;"/>
+	  <text value="&yellowmeaning;"/>
+	  <text value="&greymeaning;"/>
+	  <separator class="thin"/>
     </vbox>
   </groupbox>
 </dialog>
