@@ -1,4 +1,4 @@
-/* Andrew W. Hospodor 2011 */
+/* Andrew W. Hospodor copyright 2011 */
 /* Used 
    https://developer.mozilla.org/En/How_to_check_the_security_state_of_an_XMLHTTPRequest_over_SSL
    as a reference, guide and template for some of the SSL Security state checking
