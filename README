@@ -32,9 +32,9 @@ andrewh@soe.ucsc.edu
 
 This is the README for the SSLButton project,
 a project of the: 
-Working-Group On Applied Security and Privacy
+Working-Group On Applied Security & Privacy
 at the University of California Santa Cruz.
-(UCSC SSRC WASP).
+(UCSC WASP).
 
 Purpose:
 This button is intended to show users whether or not
@@ -65,3 +65,8 @@ get "hover" to work in chrome/content/overlay.css
 
 Planned things that will "eventually" get done:
 hash table for visited sites.
+
+Version 1.1 Notes:
+Updated description with better verbiage.
+Added a nice graphic with the description.
+Built in functionality to place the button in the toolbar automatically.

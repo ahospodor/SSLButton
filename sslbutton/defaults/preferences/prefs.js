@@ -1,6 +1,4 @@
-pref("extensions.sslbutton.boolpref", false);
-pref("extensions.sslbutton.intpref", 0);
-pref("extensions.sslbutton.stringpref", "A string");
+pref("extensions.ssl-button@understandable-security-measures.install", true);
 
 // https://developer.mozilla.org/en/Localizing_extension_descriptions
-pref("extensions.ssl-button@soe.ucsc.edu.description", "chrome://sslbutton/locale/overlay.properties");
+pref("extensions.ssl-button@understandable-security-measures.description", "chrome://sslbutton/locale/overlay.properties");

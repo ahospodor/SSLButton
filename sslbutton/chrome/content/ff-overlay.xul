@@ -9,6 +9,7 @@
 <script type="application/javascript"
   src="chrome://sslbutton/content/overlay.js"/>
 
+
 <stringbundleset id="stringbundleset">
     <stringbundle id="sslbutton-strings" src="chrome://sslbutton/locale/overlay.properties"/>
   </stringbundleset>
@@ -19,5 +20,8 @@
 	label = "&sslbuttonToolbarButton.label;" tooltiptext = "&sslbuttonToolbarButton.tooltiptext;"
 	oncommand = "SSLButton[2](window.content)" />
   </toolbarpalette>
+
+<script type="application/javascript"
+  src="chrome://sslbutton/content/add_toolbar_default.js"/>
 </overlay>
 

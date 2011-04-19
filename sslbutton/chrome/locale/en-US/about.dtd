@@ -2,7 +2,7 @@
 <!ENTITY version "Version: ">
 <!ENTITY createdBy "Created By:">
 <!ENTITY contributors "Contributors: ">
-<!ENTITY wasp "a project of the Work Group on Applied Security and Privacy at the University of California Santa Cruz">
+<!ENTITY wasp "a project of the Work Group on Applied Security &amp; Privacy at the University of California Santa Cruz">
 <!ENTITY art "Art / Graphics used with permission from:">
 <!ENTITY clker1 "http://www.clker.com/profile-9.html">
 <!ENTITY clker2 "http://www.clker.com/clipart-52153.html">
@@ -10,7 +10,7 @@
 <!ENTITY usage "Usage">
 <!ENTITY installinst1 "To use, place the button on your toolbar by">
 <!ENTITY installinst2 "View -> Toolbars -> Customize and dragging the SSL Button icon onto your toolbar.">
-<!ENTITY redmeaning "Red => A secure channel is available, click the button to switch to it">
-<!ENTITY greenmeaning "Green => A secure channel is in use, click the button to go to nonsecure channel">
-<!ENTITY yellowmeaning "Yellow => The secure channel in use is unverifiable and may be compromised. Click the button to go to nonsecure channel">
-<!ENTITY greymeaning "Grey => A secure channel is unavailable for this page">
+<!ENTITY redmeaning "Red => Secure connection is available, click the button to switch to it.">
+<!ENTITY greenmeaning "Green => Secure connection in use. If you click the button, you will switch to insecure connection (if available).">
+<!ENTITY yellowmeaning "Yellow => The secure version of the page is untrusted. Click the button to return to the normal page.">
+<!ENTITY greymeaning "Grey => A secure connection is unavailable for this page. You may want to email the webmaster and ask why!">

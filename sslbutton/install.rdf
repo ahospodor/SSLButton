@@ -4,12 +4,12 @@
     <em:id>ssl-button@understandable-security-measures</em:id>
     <em:type>2</em:type>
     <em:name>SSL Button</em:name>
-    <em:version>1.0</em:version>
+    <em:version>1.1</em:version>
     <em:creator>Andrew Hospodor</em:creator>
     <em:contributor>D J Capelis</em:contributor>
-    <em:contributor>Project of the Working-Group on Applied Security and Privacy at the University of California Santa Cruz</em:contributor>
+    <em:contributor>Project of the Working-Group on Applied Security &amp; Privacy at the University of California Santa Cruz</em:contributor>
 	<em:contributor>Art/Graphics used with permission from Mohamed Ibrahim </em:contributor>
-    <em:description>Displays if SSL is available on current page and will switch to/from secure connection if clicked.</em:description>
+    <em:description>A button that redirects the user to the secure version of a web page using SSL.</em:description>
     <em:aboutURL>chrome://sslbutton/content/about.xul</em:aboutURL>
 	<em:iconURL>chrome://sslbutton/skin/icon.png</em:iconURL>
     <em:targetApplication>
