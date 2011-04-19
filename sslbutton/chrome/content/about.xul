@@ -12,6 +12,13 @@
       <separator class="thin"/>
       <text value="&createdBy;" style="font-weight: bold;"/>
       <text value="Andrew Hospodor"/>
+      <text value="&contributors;" style="font-weight: bold;"/>
+	  <text value="D J Capelis"/>
+	  <text value="&wasp;"/>
+	  <text value="&art;"/>
+	  <text value="Mohamed Ibrahim"/>
+	  <text value="&clker1;"/>
+	  <text value="&clker2;"/>
       <separator class="thin"/>
 	  <text value="&usage;" style="font-weight: bold;"/>
 	  <text value="&installinst1;"/>

@@ -1,6 +1,11 @@
 <!ENTITY about "About">
 <!ENTITY version "Version: ">
-<!ENTITY createdBy "Created By: Andrew W. Hospodor WASP Lab UCSC SSRC">
+<!ENTITY createdBy "Created By:">
+<!ENTITY contributors "Contributors: ">
+<!ENTITY wasp "a project of the Work Group on Applied Security and Privacy at the University of California Santa Cruz">
+<!ENTITY art "Art / Graphics used with permission from:">
+<!ENTITY clker1 "http://www.clker.com/profile-9.html">
+<!ENTITY clker2 "http://www.clker.com/clipart-52153.html">
 <!ENTITY homepage "Home Page:http://www.wasp.soe.ucsc.edu/">
 <!ENTITY usage "Usage">
 <!ENTITY installinst1 "To use, place the button on your toolbar by">

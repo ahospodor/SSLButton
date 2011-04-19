@@ -10,6 +10,10 @@ permitted provided that the following conditions are met:
       of conditions and the following disclaimer in the documentation and/or other materials
       provided with the distribution.
 
+   3. Neither the name of the Andrew Hospodor, WASP, UCSC, nor the
+	  names of its contributors may be used to endorse or promote products
+	  derived from this software without specific prior written permission.
+
 THIS SOFTWARE IS PROVIDED BY Andrew Hospodor ``AS IS'' AND ANY EXPRESS OR IMPLIED
 WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
 FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL Andrew Hospodor OR
@@ -23,45 +27,3 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The views and conclusions contained in the software and documentation are those of the
 authors and should not be interpreted as representing official policies, either expressed
 or implied, of Andrew Hospodor.
-
-
-andrew.hospodor@gmail.com
-andrewh@soe.ucsc.edu
-
-
-
-This is the README for the SSLButton project,
-a project of the: 
-Working-Group On Applied Security and Privacy
-at the University of California Santa Cruz.
-(UCSC SSRC WASP).
-
-Purpose:
-This button is intended to show users whether or not
-SSL is available on any given webpage, and allow them
-to easily switch. 
-
-
-Installation:
-To install the firefox extension, simply drag and drop
-the "sslbutton.xpi" into Firefox. Follow instructions on screen.
-
-After this, go to "customize" for toolbar:
-View -> Toolbars -> Customize
-OR
-Right click on toolbar area and click customize. 
-Select the icon with the Padlock icon (Called SSL Button) and drag
-it onto your favorite spot in the toolbar.
-
-Testing:
-It has only been tested in Firefox 3.6 at this time. If you would
-like to do more testing, please do.
-
-Things that need doing:
-get "hover" to work in chrome/content/overlay.css
-(done) update description
-(done)add a nice graphic with the description
-
-
-Planned things that will "eventually" get done:
-hash table for visited sites.

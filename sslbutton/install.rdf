@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>ssl-button@wasp.soe.ucsc.edu</em:id>
+    <em:id>ssl-button@understandable-security-measures</em:id>
     <em:type>2</em:type>
     <em:name>SSL Button</em:name>
     <em:version>1.0</em:version>
     <em:creator>Andrew Hospodor</em:creator>
     <em:contributor>D J Capelis</em:contributor>
-    <em:contributor>WASP group at UCSC&#039;s SSRC</em:contributor>
-    <em:description>SSL Availability Display Button</em:description>
+    <em:contributor>Project of the Working-Group on Applied Security and Privacy at the University of California Santa Cruz</em:contributor>
+	<em:contributor>Art/Graphics used with permission from Mohamed Ibrahim </em:contributor>
+    <em:description>Displays if SSL is available on current page and will switch to/from secure connection if clicked.</em:description>
     <em:aboutURL>chrome://sslbutton/content/about.xul</em:aboutURL>
 	<em:iconURL>chrome://sslbutton/skin/icon.png</em:iconURL>
     <em:targetApplication>
